@@ -1,0 +1,11 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="https://sc93sc.dev.local/" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{756689D1-1F87-4A1C-B960-5DC1600AB5D0}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{756689D1-1F87-4A1C-B960-5DC1600AB5D0}</Item>
+  </File>
+</Project>

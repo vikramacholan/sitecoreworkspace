@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {69DFD93E-7FE4-4356-B496-B6A788C34351}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/2020/05/08/02/50/Nature Climb in the Adirondacks
+parent: {50BD31A9-2440-4393-857C-2D014585A457}
+name: Nature Climb in the Adirondacks
+master: {00000000-0000-0000-0000-000000000000}
+template: {B90DC91E-2C06-4BE7-AC06-60F270A5ED4A}
+templatekey: Event Details
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 38
+
+{FA8AF7FA-D592-432A-BB0B-9371EF079B8B}
+----version----
+language: en
+version: 1
+revision: 82a3cd5a-2712-486e-b859-4f2848e8d487
+
+----field----
+field: {04F67257-AF07-45A9-AB44-E1983CED1A1D}
+name: ContentBody
+key: contentbody
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {EEC60072-504B-4F6D-BB43-1E8D10A4E345}
+name: ContentHeading
+key: contentheading
+content-length: 31
+
+Nature Climb in the Adirondacks
+----field----
+field: {CE604C82-14ED-4D53-91C0-28DAAF735D07}
+name: Highlights
+key: highlights
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {5BB2F0C7-4BE3-4786-AA3D-6FC32F0FB4C2}
+name: ContentIntro
+key: contentintro
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {7027BD01-291A-456C-941B-D1CFB7A5A814}
+name: EventImage
+key: eventimage
+content-length: 193
+
+<image mediapath="" alt="Climbing-the-Face-of-Half-Dome" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{93CC5D9C-E50E-448C-95CD-FCFC694E3C06}" ></image>
+----field----
+field: {75C9CB56-2503-47B6-AB11-4A8EA041A34D}
+name: DecorationBanner
+key: decorationbanner
+content-length: 170
+
+<image mediapath="" alt="cycling-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{F3C0962E-D17E-4159-A18D-4FB480D50170}" />
+----field----
+field: {32C89262-5318-47F3-A97C-BF4EBA313BC7}
+name: MetaTitle
+key: metatitle
+content-length: 31
+
+Nature Climb in the Adirondacks
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T025034Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+82a3cd5a-2712-486e-b859-4f2848e8d487
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200511T212553Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

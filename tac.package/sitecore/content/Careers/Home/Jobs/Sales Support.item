@@ -1,0 +1,135 @@
+----item----
+version: 1
+id: {4C1797ED-5A73-4685-8152-6D0B2255CDD8}
+database: master
+path: /sitecore/content/Careers/Home/Jobs/Sales Support
+parent: {B8F40EDB-A130-44A3-8275-6CA9C00D09A8}
+name: Sales Support
+master: {00000000-0000-0000-0000-000000000000}
+template: {51C41FF7-EA33-4882-8C6D-4ADCB2927624}
+templatekey: Job Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: c8b65bef-cbe8-43a6-9778-0a2bca03ecaa
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 13
+
+Sales Support
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 200
+
+The Sales Support team member is an expert in contract processing, and will team up with the global team for ensuring best practice and knowledge sharing in order to provide world-class sales support.
+----field----
+field: {7790EF56-B7D8-4559-B3B5-5388AB04F639}
+name: ContentBody
+key: contentbody
+content-length: 452
+
+You will be responsible for supporting sellers &amp; the sales operations to ensure complete order management and ensure contract management by checking for divergences in what is sold and what is registered. &nbsp;You will be involved in the Invoicing process through LOS via Finance and you will &nbsp;support account managers on uplifts as well as overall administrative support for the regions. This position is expected to expand into a full time.
+----field----
+field: {177109FC-DBF4-463B-9BD6-DA70229ECFE8}
+name: JobImage
+key: jobimage
+content-length: 58
+
+<image mediaid="{48C6CB0A-7760-479C-8DF3-0AD4A16BBAB0}" />
+----field----
+field: {022AC3D2-5A86-4CA6-9213-7D612E2B5573}
+name: JobRequirements
+key: jobrequirements
+content-length: 621
+
+<ul>
+    <li>A Bachelor&acute;s degree is preferred</li>
+    <li>3-5 years industry or equivalent sales operations experience, alternatively your previous experience emanates from procurement</li>
+    <li>Strong organizational and time-management skills including multi-tasking, prioritizing and the ability to plan work activities efficiently to meet deadlines</li>
+    <li>Creative thinking with problem solving capability</li>
+    <li>Proven ability to work effectively in a fast-paced, cross functional, and sometimes highly pressured environment</li>
+    <li>Be strong in database-oriented software</li>
+</ul>
+----field----
+field: {6D79BF70-A888-46F8-AC0B-EED001DF205F}
+name: JobRelated
+key: jobrelated
+content-length: 38
+
+{48FA7F35-C3C1-43CF-A7F9-A3E49F3CE7EB}
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 13
+
+Sales Support
+----field----
+field: {6AB86939-C29F-4035-ABFF-AC0A0D473986}
+name: JobHours
+key: jobhours
+content-length: 38
+
+{31B4A43C-02FD-4B3B-A769-4D9E742EF620}
+----field----
+field: {05CF017B-51B6-45A0-A450-4ACB4660197D}
+name: JobLocation
+key: joblocation
+content-length: 38
+
+{3F1A276A-9A73-4BB1-9E01-4A4B2E28941B}
+----field----
+field: {54DFC0B6-B74C-4D09-9AEA-041EC73F7707}
+name: JobType
+key: jobtype
+content-length: 6
+
+Medior
+----field----
+field: {CEAD6260-805B-459D-8936-B9894AA60DD6}
+name: JobTravel
+key: jobtravel
+content-length: 9
+
+30% - 50%
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160510T064311Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c8b65bef-cbe8-43a6-9778-0a2bca03ecaa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

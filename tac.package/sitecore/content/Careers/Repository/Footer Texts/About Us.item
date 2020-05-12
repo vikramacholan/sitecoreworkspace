@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {C40EA54D-3DC6-4064-A40A-E0A63061231E}
+database: master
+path: /sitecore/content/Careers/Repository/Footer Texts/About Us
+parent: {DA2F0A83-A19B-4E90-92EF-D3A7CA32527E}
+name: About Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {F9CE4319-4059-4A07-A606-629CD6BF2EBE}
+templatekey: Repository Content
+
+----version----
+language: en
+version: 1
+revision: 66bdca14-7466-4497-825b-dd3cff9682ed
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 8
+
+About Us
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 254
+
+The Adventure Company is a nonprofit organization. In each location where we sponsor events, we carefully vet local conservation organizations so that our members have the opportunity to donate their money where it will do the most good on a local level.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T120904Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+66bdca14-7466-4497-825b-dd3cff9682ed
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

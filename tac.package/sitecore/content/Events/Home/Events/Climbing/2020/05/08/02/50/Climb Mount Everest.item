@@ -1,0 +1,135 @@
+----item----
+version: 1
+id: {448FD4DB-D805-46DE-A76B-7A5607A99A57}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/2020/05/08/02/50/Climb Mount Everest
+parent: {50BD31A9-2440-4393-857C-2D014585A457}
+name: Climb Mount Everest
+master: {00000000-0000-0000-0000-000000000000}
+template: {B90DC91E-2C06-4BE7-AC06-60F270A5ED4A}
+templatekey: Event Details
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 38
+
+{FA8AF7FA-D592-432A-BB0B-9371EF079B8B}
+----version----
+language: en
+version: 1
+revision: d6ffea06-7fc7-48fb-bc15-f19c7f3e7ccc
+
+----field----
+field: {04F67257-AF07-45A9-AB44-E1983CED1A1D}
+name: ContentBody
+key: contentbody
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {EEC60072-504B-4F6D-BB43-1E8D10A4E345}
+name: ContentHeading
+key: contentheading
+content-length: 27
+
+Exiting Mount Everest Climb
+----field----
+field: {CE604C82-14ED-4D53-91C0-28DAAF735D07}
+name: Highlights
+key: highlights
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {5BB2F0C7-4BE3-4786-AA3D-6FC32F0FB4C2}
+name: ContentIntro
+key: contentintro
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {7027BD01-291A-456C-941B-D1CFB7A5A814}
+name: EventImage
+key: eventimage
+content-length: 193
+
+<image mediapath="" alt="Climbing-the-Face-of-Half-Dome" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{93CC5D9C-E50E-448C-95CD-FCFC694E3C06}" ></image>
+----field----
+field: {75C9CB56-2503-47B6-AB11-4A8EA041A34D}
+name: DecorationBanner
+key: decorationbanner
+content-length: 186
+
+<image mediapath="" alt="Climbing-the-Face-of-Half-Dome" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{93CC5D9C-E50E-448C-95CD-FCFC694E3C06}" />
+----field----
+field: {32C89262-5318-47F3-A97C-BF4EBA313BC7}
+name: MetaTitle
+key: metatitle
+content-length: 31
+
+Nature Climb in the Adirondacks
+----field----
+field: {7C7731FA-C91E-4AD2-A96A-2A1878011581}
+name: StartDate
+key: startdate
+content-length: 15
+
+20200514T000000
+----field----
+field: {64B75214-97A4-4A5B-B943-05F7F1D6D74D}
+name: Duration
+key: duration
+content-length: 1
+
+4
+----field----
+field: {05D9D992-1520-4ABA-8920-E5D25D7C12FE}
+name: RelatedEvents
+key: relatedevents
+content-length: 38
+
+{69DFD93E-7FE4-4356-B496-B6A788C34351}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 311
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D58C1174-D69F-4994-A770-E402BBC20EA4}"><p:d /></r><r uid="{CC85D6AE-23F6-4440-9946-606C6E3C4E97}" p:before="*" s:id="{9DC500A2-07EE-4374-920B-B83E213BD83B}" s:ph="main" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T025034Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d6ffea06-7fc7-48fb-bc15-f19c7f3e7ccc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200512T015654Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

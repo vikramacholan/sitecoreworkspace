@@ -1,0 +1,145 @@
+----item----
+version: 1
+id: {48FA7F35-C3C1-43CF-A7F9-A3E49F3CE7EB}
+database: master
+path: /sitecore/content/Careers/Home/Jobs/HR Manager
+parent: {B8F40EDB-A130-44A3-8275-6CA9C00D09A8}
+name: HR Manager
+master: {00000000-0000-0000-0000-000000000000}
+template: {51C41FF7-EA33-4882-8C6D-4ADCB2927624}
+templatekey: Job Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 65e0dda2-e4ad-444f-ac23-3c4205c1dd1a
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 10
+
+HR Manager
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 195
+
+The Adventure Company is looking for an experienced Regional HR Manager with first-hand knowledge of the travel industry, who is used to working with highly specialized and qualified colleagues. 
+----field----
+field: {7790EF56-B7D8-4559-B3B5-5388AB04F639}
+name: ContentBody
+key: contentbody
+content-length: 580
+
+As our HR Manager, you will be responsible for actively providing advanced level support and internal consulting to business and functional senior management client groups. You will also be responsible for guiding and implementing strategic and tactical HR initiatives aligned to business objectives. Therefore the candidate need to be very result oriented and have confidence in personal ability to create strong HR strategies, which support the business and thereby executes in the development of the organization and the people while acting as a resource for general inquiries.
+----field----
+field: {177109FC-DBF4-463B-9BD6-DA70229ECFE8}
+name: JobImage
+key: jobimage
+content-length: 58
+
+<image mediaid="{D9AB08EE-D108-4AAE-A4C8-EC6EF313800D}" />
+----field----
+field: {022AC3D2-5A86-4CA6-9213-7D612E2B5573}
+name: JobRequirements
+key: jobrequirements
+content-length: 744
+
+<ul>
+    <li>Comprehensive and proven HR experience in fast paced, collaborative working environment</li>
+    <li>At least 7-10 years of experience in the travel industry</li>
+    <li>A solid knowledge about International organizations</li>
+    <li>A Master&rsquo;s degree in HRM or equivalent</li>
+    <li>Excellent English communication skills (a must) our company language is English</li>
+    <li>A strong drive in reaching results and focusing on structure</li>
+    <li>A self-confident, self-motivated, stress resistant personality</li>
+    <li>Solid Experience of working across the Chinese, Japanese, Singaporean and Australian markets (ideally) and Malaysia, India and Indonesia (preferably)&nbsp;</li>
+</ul>
+<div>&nbsp;</div>
+----field----
+field: {16B2D488-46E1-481D-88B5-CCF8555AD29C}
+name: JobFooter
+key: jobfooter
+content-length: 347
+
+The Adventure Company is proud to be an equal opportunity workplace, and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, gender, national origin, sexual orientation, age, citizenship, marital status, disability, veteran status or any other legally protected basis.
+----field----
+field: {6D79BF70-A888-46F8-AC0B-EED001DF205F}
+name: JobRelated
+key: jobrelated
+content-length: 38
+
+{4C1797ED-5A73-4685-8152-6D0B2255CDD8}
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 10
+
+HR Manager
+----field----
+field: {6AB86939-C29F-4035-ABFF-AC0A0D473986}
+name: JobHours
+key: jobhours
+content-length: 38
+
+{B817E123-9974-432F-B237-40B76B32E660}
+----field----
+field: {05CF017B-51B6-45A0-A450-4ACB4660197D}
+name: JobLocation
+key: joblocation
+content-length: 38
+
+{BD7B26DA-B9B0-4D25-86D4-110C2935C9B9}
+----field----
+field: {54DFC0B6-B74C-4D09-9AEA-041EC73F7707}
+name: JobType
+key: jobtype
+content-length: 6
+
+Senior
+----field----
+field: {CEAD6260-805B-459D-8936-B9894AA60DD6}
+name: JobTravel
+key: jobtravel
+content-length: 3
+
+30%
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160510T064343Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+65e0dda2-e4ad-444f-ac23-3c4205c1dd1a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {F6E152EE-A950-4F4B-81F9-265160480B42}
+database: master
+path: /sitecore/content/Careers/Repository/Spotlight Themes/Info
+parent: {0F56ABA7-7950-4087-A1D0-FF63F5263CCD}
+name: Info
+master: {00000000-0000-0000-0000-000000000000}
+template: {E78D0287-4554-49AC-AE9B-43F303D524E6}
+templatekey: Background Themes
+
+----version----
+language: en
+version: 1
+revision: 284f94f8-4c37-415c-be83-e0372be91b1f
+
+----field----
+field: {BA8A2082-696A-4B99-8FD2-413B39A821AF}
+name: Class
+key: class
+content-length: 7
+
+bg-info
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160428T175932Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+284f94f8-4c37-415c-be83-e0372be91b1f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

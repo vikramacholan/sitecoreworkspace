@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {8A9178CC-C4F3-49BE-B054-D4B40F3EFBEC}
+database: master
+path: /sitecore/content/Careers/Home
+parent: {8A6A3E4E-B189-4A61-9840-FC24E8257B5D}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {C1177C0B-769B-4B86-AD27-265782DF7A7F}
+templatekey: Home Page
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 267
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{100EDA93-7F1A-43F8-A314-BD1FB2828F67}"><p:d /></r><r uid="{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}"><p:d /></r><r uid="{9E32FB9A-E0BE-4334-A558-54A6157B4A38}"><p:d /></r></d></r>
+----version----
+language: en
+version: 1
+revision: aecae341-9222-4dd6-9c0b-630fa45709a5
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 7
+
+Careers
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 240
+
+At the Adventure Company, we value dynamic, trustworthy people to represent our organization, and engage our members at every touchpoint. We offer world-class tours that inspire our members to contribute to making our planet a better place.
+----field----
+field: {316D090C-0128-4C15-AE3E-0B7AC6423197}
+name: DecorationBanner
+key: decorationbanner
+content-length: 137
+
+<image mediaid="{1CBD0EE7-0CD5-4A8B-8626-EDB0F0599A5F}" alt="Man and woman looking at a tablet" height="" width="" hspace="" vspace="" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 29
+
+Jobs at the Adventure Company
+----field----
+field: {A8E32D2F-A27A-410A-B352-8C8F387E4534}
+name: FooterText
+key: footertext
+content-length: 38
+
+{C40EA54D-3DC6-4064-A40A-E0A63061231E}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 767
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{100EDA93-7F1A-43F8-A314-BD1FB2828F67}" p:before="*" s:ds="{B8F40EDB-A130-44A3-8275-6CA9C00D09A8}" s:id="{E2E3E44E-A330-4094-8A80-200A9736C593}" s:par="" s:ph="/mainContent/columnContent" /><r uid="{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}" p:after="r[@uid='{100EDA93-7F1A-43F8-A314-BD1FB2828F67}']" s:ds="{7EC4EDDA-F189-41D4-9C41-4FFA7712ABFF}" s:id="{AC2A2F97-74E2-46C8-917B-24AB8E699E55}" s:par="Title&amp;Appearance=%7BE3047EE9-38E0-4E8F-AAB3-54014EDF64A4%7D" s:ph="/mainContent/columnRight" /><r uid="{9E32FB9A-E0BE-4334-A558-54A6157B4A38}" p:after="r[@uid='{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}']" s:id="{37D1B2F2-5521-4E3C-9E22-AC6F17783A84}" s:ph="mainContent" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T114657Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aecae341-9222-4dd6-9c0b-630fa45709a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092254Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {FA8AF7FA-D592-432A-BB0B-9371EF079B8B}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing
+parent: {04CECF83-8159-4ED7-BFCD-BD82516D595E}
+name: Climbing
+master: {00000000-0000-0000-0000-000000000000}
+template: {CF8CE985-43B5-4728-87D9-D9AB9F9DD3DC}
+templatekey: Events List
+
+----version----
+language: en
+version: 1
+revision: 482729a3-167b-4527-9b04-55e9a093a670
+
+----field----
+field: {EEC60072-504B-4F6D-BB43-1E8D10A4E345}
+name: ContentHeading
+key: contentheading
+content-length: 8
+
+Climbing
+----field----
+field: {75C9CB56-2503-47B6-AB11-4A8EA041A34D}
+name: DecorationBanner
+key: decorationbanner
+content-length: 171
+
+<image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{9533FF5E-C7D1-4A28-AB0B-A12ECB93EB5C}" />
+----field----
+field: {32C89262-5318-47F3-A97C-BF4EBA313BC7}
+name: MetaTitle
+key: metatitle
+content-length: 8
+
+Climbing
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T024005Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+482729a3-167b-4527-9b04-55e9a093a670
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200508T025838Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

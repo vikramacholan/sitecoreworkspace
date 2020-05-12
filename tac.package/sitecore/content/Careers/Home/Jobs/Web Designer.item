@@ -1,0 +1,126 @@
+----item----
+version: 1
+id: {7EC4EDDA-F189-41D4-9C41-4FFA7712ABFF}
+database: master
+path: /sitecore/content/Careers/Home/Jobs/Web Designer
+parent: {B8F40EDB-A130-44A3-8275-6CA9C00D09A8}
+name: Web Designer
+master: {00000000-0000-0000-0000-000000000000}
+template: {51C41FF7-EA33-4882-8C6D-4ADCB2927624}
+templatekey: Job Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 661bceaa-0a61-485f-9b4e-6c93b0117d24
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 12
+
+Web Designer
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 263
+
+The Adventure Company is looking for a highly skilled multi-media web designer with extensive front-end web development experience to join our team with the intent to grow our capacity and capability to create and develop front-end client-side web applications.  
+----field----
+field: {7790EF56-B7D8-4559-B3B5-5388AB04F639}
+name: ContentBody
+key: contentbody
+content-length: 493
+
+As a web designer, your responsibilities for include producing designs, prototypes and graphics for our website. You will convert Photoshop design files to HTML and analyze technical and design challenges faced by the project team. You will be responsible for making recommendations based on review and analysis of available options as well as writing code or adapting existing software and graphic programs to meet our requirements. You will also test websites to identify technical problems.
+----field----
+field: {177109FC-DBF4-463B-9BD6-DA70229ECFE8}
+name: JobImage
+key: jobimage
+content-length: 58
+
+<image mediaid="{D2758F64-611D-4639-9152-460676F2EFEE}" />
+----field----
+field: {022AC3D2-5A86-4CA6-9213-7D612E2B5573}
+name: JobRequirements
+key: jobrequirements
+content-length: 370
+
+<ul>
+    <li>An experienced hand coder with strong design skills</li>
+    <li>Experience producing front end, client-side, flat file data; Long term: tap into back-end data and systems</li>
+    <li>Experience working with SQL database query language</li>
+    <li>Software experience: HTML5, CSS, JavaScript, Accessible design, Bootstrap framework, jQuery</li>
+</ul>
+----field----
+field: {6D79BF70-A888-46F8-AC0B-EED001DF205F}
+name: JobRelated
+key: jobrelated
+content-length: 116
+
+{59CECCBD-2644-4AA7-9AD2-DF279508F658}|{646E3104-8213-46AE-9D83-9F472E1B7164}|{7FAC4013-7B16-4C94-BDC5-7E328ADDE656}
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 12
+
+Web Designer
+----field----
+field: {6AB86939-C29F-4035-ABFF-AC0A0D473986}
+name: JobHours
+key: jobhours
+content-length: 38
+
+{B817E123-9974-432F-B237-40B76B32E660}
+----field----
+field: {05CF017B-51B6-45A0-A450-4ACB4660197D}
+name: JobLocation
+key: joblocation
+content-length: 38
+
+{BD7B26DA-B9B0-4D25-86D4-110C2935C9B9}
+----field----
+field: {54DFC0B6-B74C-4D09-9AEA-041EC73F7707}
+name: JobType
+key: jobtype
+content-length: 6
+
+Senior
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T120954Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+661bceaa-0a61-485f-9b4e-6c93b0117d24
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

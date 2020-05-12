@@ -1,0 +1,75 @@
+----item----
+version: 1
+id: {45A0C5B2-80D1-4B6E-87C8-E2C658938344}
+database: master
+path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
+parent: {B90DC91E-2C06-4BE7-AC06-60F270A5ED4A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {B90DC91E-2C06-4BE7-AC06-60F270A5ED4A}
+templatekey: Event Details
+
+----field----
+field: {C9283D9E-7C29-4419-9C28-5A5C8FF53E84}
+name: __Bucketable
+key: __bucketable
+content-length: 1
+
+1
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 957
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{756689D1-1F87-4A1C-B960-5DC1600AB5D0}">
+    <r id="{9DC500A2-07EE-4374-920B-B83E213BD83B}" ph="main" uid="{D58C1174-D69F-4994-A770-E402BBC20EA4}" />
+    <r ds="{04CECF83-8159-4ED7-BFCD-BD82516D595E}" id="{0EAC8D7D-F790-4FCD-B04E-9720A2E3296D}" ph="pageSide" uid="{FE8AAA13-75B6-49AD-8D1B-C3BD4B6EA29D}" />
+    <r id="{C81FF895-0210-4381-BF27-6F1317553416}" ph="pageSide" uid="{F5E3164A-3C08-4616-A285-B369169984A8}" />
+    <r id="{9AA2B7BF-1A9F-48A1-B683-748D1789AAF8}" ph="pageSide" uid="{E27B43B4-84A3-49DB-8991-B1DD025D76B2}" />
+    <r id="{EA30C708-685E-4221-BFF6-58536E6B262B}" ph="pageHeader" uid="{4B7C6FDC-44B4-454D-A327-3D68FAF1E83B}" />
+    <r id="{A69B89D1-E322-4C2D-8A90-7DF882E7CE9C}" ph="pageContent" uid="{590868B4-4870-4347-B8B0-30239EFF4F37}" />
+    <r id="{F304935D-9FC0-49A9-A5DB-3669D7EFA760}" ph="pageContent" uid="{6E19112B-B573-4B3D-86E2-6697C6A6E1A0}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 1812f5c3-011f-4845-9a39-90ad0c531284
+
+----field----
+field: {04F67257-AF07-45A9-AB44-E1983CED1A1D}
+name: ContentBody
+key: contentbody
+content-length: 6
+
+ffrddd
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T075948Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1812f5c3-011f-4845-9a39-90ad0c531284
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200512T155354Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

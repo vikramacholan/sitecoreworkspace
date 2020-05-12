@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {61CFB101-1D4F-4306-95C9-1AF22F2B13E1}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/2020/05/08/02/50/Rockies Adventure
+parent: {50BD31A9-2440-4393-857C-2D014585A457}
+name: Rockies Adventure
+master: {00000000-0000-0000-0000-000000000000}
+template: {B90DC91E-2C06-4BE7-AC06-60F270A5ED4A}
+templatekey: Event Details
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 38
+
+{FA8AF7FA-D592-432A-BB0B-9371EF079B8B}
+----version----
+language: en
+version: 1
+revision: c757f457-89cf-4b36-a00f-a97e2cd8523c
+
+----field----
+field: {04F67257-AF07-45A9-AB44-E1983CED1A1D}
+name: ContentBody
+key: contentbody
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {EEC60072-504B-4F6D-BB43-1E8D10A4E345}
+name: ContentHeading
+key: contentheading
+content-length: 31
+
+Nature Climb in the Adirondacks
+----field----
+field: {5BB2F0C7-4BE3-4786-AA3D-6FC32F0FB4C2}
+name: ContentIntro
+key: contentintro
+content-length: 111
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt. rocx
+----field----
+field: {7027BD01-291A-456C-941B-D1CFB7A5A814}
+name: EventImage
+key: eventimage
+content-length: 193
+
+<image mediapath="" src="" height="" mediaid="{4C485271-1726-4BAC-8CAC-598DBCBB4DB2}" hspace="" usethumbnail="" showineditor="" width="" alt="Climbing-the-Face-of-Half-Dome" vspace="" ></image>
+----field----
+field: {32C89262-5318-47F3-A97C-BF4EBA313BC7}
+name: MetaTitle
+key: metatitle
+content-length: 31
+
+Nature Climb in the Adirondacks
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T025034Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c757f457-89cf-4b36-a00f-a97e2cd8523c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200511T212601Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

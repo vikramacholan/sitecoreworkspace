@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {D9FDEC89-01D5-41D6-BE7B-874D5F20BD5D}
+database: master
+path: /sitecore/content/Events/Home/About Us
+parent: {CEE22628-0A98-4EB3-BEF3-D1D7CA9272F3}
+name: About Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {C39B4B56-DC99-43C9-BB1B-91F172EC36BE}
+templatekey: Content Page
+
+----version----
+language: en
+version: 1
+revision: 7beb7e5a-d0a1-486a-bb71-a2b3dea4a73c
+
+----field----
+field: {EEC60072-504B-4F6D-BB43-1E8D10A4E345}
+name: ContentHeading
+key: contentheading
+content-length: 8
+
+About Us
+----field----
+field: {5BB2F0C7-4BE3-4786-AA3D-6FC32F0FB4C2}
+name: ContentIntro
+key: contentintro
+content-length: 106
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+----field----
+field: {32C89262-5318-47F3-A97C-BF4EBA313BC7}
+name: MetaTitle
+key: metatitle
+content-length: 8
+
+About Us
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T025216Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7beb7e5a-d0a1-486a-bb71-a2b3dea4a73c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200508T025314Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

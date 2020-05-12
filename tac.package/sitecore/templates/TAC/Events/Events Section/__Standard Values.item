@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {2B9B4C54-7E85-47B1-B866-0331E66CD941}
+database: master
+path: /sitecore/templates/TAC/Events/Events Section/__Standard Values
+parent: {99B2F189-2686-4C67-A2D0-96C61CF01946}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {99B2F189-2686-4C67-A2D0-96C61CF01946}
+templatekey: Events Section
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{CF8CE985-43B5-4728-87D9-D9AB9F9DD3DC}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 426
+
+<r><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{756689D1-1F87-4A1C-B960-5DC1600AB5D0}"><r id="{50EF4673-E769-47DB-AA98-671915E0F0D3}" ph="pageContent" uid="{C7984364-BFFC-45CD-8331-C1E3F62A9ED3}" /><r id="{F679785C-F59E-467C-A0AE-ACBC3C73B497}" ph="main" uid="{D249D88E-5654-41F9-8906-90ED9317472E}" /><r id="{EA30C708-685E-4221-BFF6-58536E6B262B}" ph="pageHeader" uid="{E95565C9-C334-4D06-8D36-F01DB63BF9F7}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 3985dfc3-61bd-4e08-832e-008772b47150
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200508T024350Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3985dfc3-61bd-4e08-832e-008772b47150
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200512T201247Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
